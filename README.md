@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me:-
 👋 Hello, I'm Jasnoor Pannu,<br><br>🎓 Currently a 1st Year B.Tech Engineering student in DIT University, Dehradun with a passion for technology and innovation.<br><br>💡 I'm fascinated by the world of Artificial Intelligence, Machine Learning and Data Science. Exploring how these fields transform industries and solve complex problems is what keeps me motivated.<br><br>💻 In addition to my academic pursuits, I also thrive in the realm of competitive coding . I find it not only intellectually stimulating but also a great way to continuously enhance my problem-solving and DSA skills. [2⭐⭐ on CodeChef👨‍🍳]<br><br>🌟 I believe that the future belongs to those who are curious, adaptable, and willing to learn. I'm committed to staying at the forefront of emerging technologies, and I'm excited about the opportunities that lie ahead.<br><br>🤝 Let's connect! I'm always open to networking, learning from others, and exploring potential collaborations in the fields of AI, ML, Data Science and Competitive Programming.
 
 
