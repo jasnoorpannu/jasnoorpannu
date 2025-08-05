@@ -15,6 +15,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jasnoorpannu&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+## LeetCode
+![Leetcode Stats](https://leetcard.jacoblin.cool/mooncat2k4?ext=contest)
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
